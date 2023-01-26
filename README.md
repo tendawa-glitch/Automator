@@ -11,3 +11,8 @@ mvn clean install
 ```
 java -jar Automater.java
 ```
+Tech stack used - 
+
+```
+Java and Selenium
+```
